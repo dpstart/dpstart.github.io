@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Daniele Paliotta # author name
+  name: daniele paliotta # author name
   bio: >- # tell to the world
     machine learning phd student, musician, writer.
   username: username # general username
