@@ -1,5 +1,5 @@
 ---
-title: ciao!
+title: ciao 🙋‍♂️ 
 permalink: /about/
 layout: page
 excerpt: this is me
