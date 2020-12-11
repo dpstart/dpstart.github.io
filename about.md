@@ -1,8 +1,8 @@
 ---
-title: Ciao!
+title: Ciao
 permalink: /about/
 layout: page
-excerpt: -
+excerpt: this is me
 comments: false
 ---
 
