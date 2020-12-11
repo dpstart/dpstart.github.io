@@ -4,7 +4,7 @@ description: >- # site description
   yet another technical blog.
 lang: en-US # default lang
 timezone: Europe/Rome # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: # This image used for Open Graph more info https://ogp.me/
 repo: # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -12,10 +12,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: daniele paliotta # author name
   bio: >- # tell to the world
-    machine learning phd student, musician, writer.
+    machine learning phd, musician, writer.
   username: username # general username
   github: dpstart # github username
-  twitter: # twitter username
+  twitter: DanielePaliotta# twitter username
   facebook: # facebook username
   email: danielepaliotta96@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
