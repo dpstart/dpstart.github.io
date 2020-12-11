@@ -10,6 +10,6 @@
   url: /about/
   external: false # set true if you using external link, see below
 
-- title: github
+- title: substack
   url: https://generalist.substack.com/
   external: true
