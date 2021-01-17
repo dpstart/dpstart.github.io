@@ -34,6 +34,7 @@ collections:
 
 # Markdown settings
 markdown: kramdown
+mathjax: true
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
