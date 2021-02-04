@@ -6,7 +6,7 @@ excerpt: this is me
 comments: false
 ---
 
-**may u needs ✨**
+**in case you need them ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
